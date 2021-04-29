@@ -6,5 +6,5 @@ The time to load the graph from the file and display it in the window should be 
 Also, the execution time of the shortest path algorithm and the resulting path staining is extremely short.
 
 <p align="center">
-<img src="first.png" width=500 heigth=300>
+<img src="first.jpg" width=500 heigth=300>
 </p>
